@@ -1,0 +1,9 @@
+.idea/
+.classpath
+*.class
+[Bb]in
+[Dd]ebug*/
+*.sbr
+obj/
+[Rr]elease*/
+*.iml
